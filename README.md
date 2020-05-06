@@ -12,3 +12,4 @@ Technologies used in this project:
 
 - React, frontend app
 - Firebase RT database as backend
+- react-markdown library
